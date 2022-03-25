@@ -35,3 +35,20 @@ h1{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+.experience{
+    width: 40%;
+    padding-left: 40px;
+    padding-right: 25px;
+    box-shadow: 10px 10px 25px gray;
+    margin-right: 10%;
+}
+.experience p{
+    text-align: justify;
+}
+.experience-area{
+    padding-left: 5%;
+}
+h2{
+    font-size: 40px;
+}
+
