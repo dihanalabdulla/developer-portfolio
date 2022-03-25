@@ -8,7 +8,10 @@ h1{
 .orange-color span{
     color: orange;
 }
-section{
+.orange-color{
+    color: orange;
+}
+.flexible-container{
     display: flex;
 }
 .half-width{
@@ -18,7 +21,7 @@ section{
 .half-width img{
     width: 80%;
     padding-left: 10%;
-    padding-top: 20%;
+    padding-top: 0%;
 }
 .link-button{
     text-decoration: none;
