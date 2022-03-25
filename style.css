@@ -41,12 +41,27 @@ h1{
     padding-right: 25px;
     box-shadow: 10px 10px 25px gray;
     margin-right: 10%;
+    border-radius: 10px;
 }
+    #baby-web{
+        border-left: 7px solid;
+        border-image: linear-gradient(blue, cyan);
+        border-image-slice: 1;
+    }
+    #full-dev{
+        border-left: 7px solid;
+        border-image: linear-gradient(orange, red);
+        border-image-slice: 1;
+    }
+
 .experience p{
     text-align: justify;
 }
 .experience-area{
     padding-left: 5%;
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
 }
 h2{
     font-size: 40px;
